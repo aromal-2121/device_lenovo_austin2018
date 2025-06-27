@@ -1,0 +1,6 @@
+/dev/block/mmcblk0p39 /system ext4 ro
+/dev/block/mmcblk0p42 /vendor ext4 ro
+/dev/block/mmcblk0p50 /data ext4 rw,data_media,encryptable=footer
+/dev/block/mmcblk0p53 /cache ext4 rw
+/dev/block/mmcblk0p54 /persist ext4 rw
+/dev/block/mmcblk0p55 /misc emmc
